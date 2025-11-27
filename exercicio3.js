@@ -6,4 +6,3 @@ console.log("Números pares:");
 for (let numero = 0; numero <= num; numero ++){
         console.log(numero);
     }
-}
